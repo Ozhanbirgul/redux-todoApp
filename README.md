@@ -20,7 +20,7 @@ Global state yönetimi, slice yapısı ve reducer mantığı üzerine yoğunlaş
 Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 ### 1. Reposu Klonlayın
-git clone https://github.com/kullanici-adin/todo-app-redux-toolkit.git
+git clone [https://github.com/kullanici-adin/todo-app-redux-toolkit.git](https://github.com/Ozhanbirgul/redux-todoApp.git)
 
 ### 2. Proje dizinine geçin
 cd todo-app-redux-toolkit
